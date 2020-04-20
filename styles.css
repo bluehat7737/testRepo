@@ -143,3 +143,12 @@ a {
   color: white;
   background-color: black;
 }
+
+.logo {
+  width: 50px;
+  transition: 0.2s;
+}
+
+.logo:hover {
+  transform: scale(1.4);
+}
